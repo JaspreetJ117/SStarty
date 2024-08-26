@@ -21,7 +21,7 @@ Welcome to the Steam Big Picture Customizer! This Python program allows you to r
    git clone https://github.com/SAYANWALA4/SStarty.git
    cd SStarty
 
-##Setup
+## Setup
 
 - Start by adding your files location to the "location.txt" file
 - Edit the Batch file named "Scipt.bat" to accommodate your internet (Steam will update every time)
