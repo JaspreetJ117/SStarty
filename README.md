@@ -18,7 +18,7 @@ Welcome to the Steam Big Picture Customizer! This Python program allows you to r
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/SAYANWALA4/SStarty.git
+   git clone https://github.com/JaspreetJ117/SStarty.git
    cd SStarty
 
 ## Setup
