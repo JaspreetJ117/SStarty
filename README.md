@@ -1,4 +1,4 @@
-# SStarty @SAYANWALA
+# SStarty @JaspreetJ117
 
 Welcome to the Steam Big Picture Customizer! This Python program allows you to replace the default Steam Big Picture boot-up movie with your custom WebM file. It's a straightforward way to personalize your gaming experience on Steam. ALL OF THE STEAM ICONS ARE OWNED BY STEAM AND THIS IS FOR EDUCATIONAL PURPOSES (this is my first actual repository hope it doesn't get taken down)
 
